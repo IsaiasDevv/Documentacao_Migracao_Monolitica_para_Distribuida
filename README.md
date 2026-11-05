@@ -1,3 +1,11 @@
+### **_🗄️ Arquitetura de Software Monolítica_**
+
+<img width="4077" height="3925" alt="Image" src="https://github.com/user-attachments/assets/490a33f8-4e43-414d-ad49-400508f732dc" />
+
+### **_👩‍🔧 Arquitetura de Software MicroServiços_**
+
+<img width="2440" height="1320" alt="Image" src="https://github.com/user-attachments/assets/5c1ab315-2a24-4232-8840-ced78a62a0be" />
+
 # 🛒 Projeto Integrador III-A — Migração de Arquitetura Monolítica para Microsserviços
 
 Este repositório contém o projeto desenvolvido para a disciplina **Projeto Integrador III-A**, do curso de **Análise e Desenvolvimento de Sistemas** da **PUC Goiás – CEAD**.  
